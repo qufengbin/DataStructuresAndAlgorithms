@@ -18,4 +18,4 @@ def binary_search(data,target,low,high):
 
 if __name__ == "__main__":
     test = [2,4,5,7,8,9,12,14,17,19,22,25,27,28,33,37]
-    binary_search(test,30,0,len(test)-1)
+    binary_search(test,9,0,len(test)-1)
